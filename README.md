@@ -25,9 +25,7 @@ Sou Gabriel Bomfim Bispo, tenho 32 anos e estou estudando Análise e Desenvolvim
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-00B2A9?style=flat&logo=microsoft&logoColor=white)
 
-### 🌟 Repositórios em Destaque
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielB-B&repo=nome-do-repositorio&theme=blue-green)](https://github.com/GabrielB-B/nome-do-repositorio)
 
 
 
