@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Sou Gabriel Bomfim Bispo, tenho 32 anos e estou estudando Análise e Desenvolvimento de Sistemas (ADS). Tenho uma grande paixão por tecnologia e desenvolvimento de software, sempre buscando aprender e me aperfeiçoar.
+Sou Gabriel Bomfim Bispo, tenho 33 anos e estou estudando Análise e Desenvolvimento de Sistemas (ADS). Tenho uma grande paixão por tecnologia e desenvolvimento de software, sempre buscando aprender e me aperfeiçoar.
 
 ### 📫 Como me encontrar
 
