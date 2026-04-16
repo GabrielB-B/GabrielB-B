@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:gabrielb.b@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
