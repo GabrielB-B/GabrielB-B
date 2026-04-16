@@ -1,30 +1,26 @@
-## Olá, Eu sou o GabrielBomfim 👋
+<h1 align="center">Gabriel Bomfim Bispo</h1>
+<h3 align="center">Desenvolvedor em formação | Python, C#, SQL e Automação</h3>
 
-### Sobre mim
+## 👨‍💻 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com foco em Python, C#, automação de processos e desenvolvimento web. 
+Gosto de construir soluções úteis, organizadas e com aplicação prática em problemas reais.
 
-Sou Gabriel Bomfim Bispo, tenho 33 anos e estou estudando Análise e Desenvolvimento de Sistemas (ADS). Tenho uma grande paixão por tecnologia e desenvolvimento de software, sempre buscando aprender e me aperfeiçoar.
+## 🚀 Atualmente focado em
+- Python para automação e back-end
+- C# e lógica de programação
+- React e desenvolvimento web
+- SQL e modelagem de dados
+- Inteligência Artificial aplicada
 
-### 📫 Como me encontrar
+## 📌 Projetos em destaque
+- **Sistema de Controle de RPV** — aplicação para gestão de processos e fluxo financeiro
+- **Cesta Digital** — sistema para cadastro e análise socioeconômica
+- **Automações com Python** — scripts para PDFs, planilhas e tarefas operacionais
+- **Projetos de dados** — análises com Pandas e visualização de dados
 
-- **LinkedIn:** [Gabriel Bomfim Bispo](https://www.linkedin.com/in/gabriel-bomfim-bispo-606382222/)
+## 🛠️ Tecnologias
+Python | C# | JavaScript | HTML | CSS | SQL | React | Git | GitHub
 
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielB-B&show_icons=true&theme=blue-green)
-
-### 🧑‍💻 Linguagens que estou aprendendo
-
-![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0078D4?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4B8BBE?style=flat&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-00B2A9?style=flat&logo=microsoft&logoColor=white)
-
-
-
-
-
+## 📫 Contato
+- LinkedIn: [Gabriel Bomfim Bispo](https://www.linkedin.com/feed/)
+- Email: gabrielb.b@outlook.com
