@@ -1,115 +1,50 @@
-<h1 align="center">Gabriel Bomfim Bispo</h1>
-<h3 align="center">Desenvolvedor em formação | Python, C#, SQL, Automação e Desenvolvimento Web</h3>
+# Gabriel Bomfim Bispo
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia, automação de processos e criação de soluções úteis para problemas reais.
-</p>
+Backend and automation-focused developer building practical systems for real operational workflows.
 
-<p align="center">
-  <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gabrielb.b@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## About Me
 
----
+I am an ADS student with hands-on experience in:
 
-## 👨‍💻 Sobre mim
+- Python automation
+- backend web development
+- SQL and data modeling
+- spreadsheet and PDF processing
+- internal tooling for operational efficiency
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **Python, C#, SQL, automação de processos e desenvolvimento web**.  
-Gosto de construir projetos organizados, funcionais e com aplicação prática, sempre buscando evoluir como desenvolvedor e criar soluções que realmente façam diferença.
+My strongest projects are the ones that solve real business problems, especially where process control, data validation, and resilient workflows matter.
 
-Atualmente, venho desenvolvendo projetos voltados para:
+## Featured Projects
 
-- automação com Python
-- sistemas web com foco em organização e produtividade
-- manipulação de planilhas, PDFs e dados
-- aplicações full stack
-- evolução contínua em lógica, back-end e front-end
+### [SISCON Controle de RPVs](https://github.com/GabrielB-B/siscon-controle-rpv)
+Flask application for financial and operational control of RPVs, with business rules, migrations, tests, and a portfolio-ready public structure.
 
----
+### [Automacao de Guias Judiciais](https://github.com/GabrielB-B/automacao-rpvs)
+Python desktop automation for spreadsheet-driven guide issuance, browser workflow orchestration, direct PDF capture, resume support, and execution reporting.
 
-## 🚀 Tecnologias e ferramentas
+### [Portfolio Website](https://github.com/GabrielB-B/Meuportifolio)
+Personal website used as a front-facing presentation layer for my projects, background, and contact information.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## What I Like Building
 
----
+- systems that replace manual spreadsheet workflows
+- automation for repetitive operational tasks
+- internal tools with clear business value
+- interfaces that improve organization and traceability
 
-## 📚 Atualmente estudando
+## Current Focus
 
-- Python para automação e back-end
-- C# e desenvolvimento de aplicações
-- React e interfaces web modernas
-- SQL e modelagem de dados
-- Inteligência Artificial aplicada
-- boas práticas de código e organização de projetos
+- Python for automation and backend development
+- C# and desktop/application development
+- React and modern frontend architecture
+- SQL, modeling, and data quality
+- software engineering best practices
 
----
+## Contact
 
-## 📊 Estatísticas do GitHub
+- GitHub: [GabrielB-B](https://github.com/GabrielB-B)
+- Email: `gabrielb.b@outlook.com`
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielB-B&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=GabrielB-B&theme=tokyonight&hide_border=true" />
-</div>
+## GitHub Notes
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielB-B&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 📈 Atividade recente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielB-B&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 📌 Projetos em destaque
-
-### 🔹 Sistema de Controle de RPV
-Aplicação voltada para organização, acompanhamento e controle de processos, com foco em fluxo operacional, cadastro e gestão de informações.
-
-### 🔹 Cesta Digital
-Sistema desenvolvido para auxiliar no cadastro e análise socioeconômica de famílias, com foco em impacto social e organização de doações.
-
-### 🔹 Automações com Python
-Scripts para automação de tarefas repetitivas, leitura de planilhas, processamento de PDFs e otimização de rotinas.
-
-### 🔹 Projetos de análise de dados
-Estudos e experimentos com dados, utilizando Python, Pandas e visualização para gerar análises e insights.
-
----
-
-## 🎯 Objetivo profissional
-
-Busco crescer como desenvolvedor, fortalecendo minha base em **Python, C#, desenvolvimento web e automação**, enquanto construo projetos cada vez mais sólidos, úteis e profissionais.
-
----
-
-## 📫 Contato
-
-- LinkedIn: [Gabriel Bomfim Bispo](https://www.linkedin.com/feed/)
-- Email: **gabrielb.b@outlook.com**
-
----
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://github.com/GabrielB-B/GabrielB-B/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+This profile highlights portfolio projects that were prepared for public viewing, with sensitive data, local runtime artifacts, and internal operational material removed when needed.
